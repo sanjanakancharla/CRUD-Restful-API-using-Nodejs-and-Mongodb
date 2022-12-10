@@ -1,4 +1,4 @@
-# CRUD
+# CRUD using node
 
 A restful api is built using node.js express and mongodb together with mongoose.
 
